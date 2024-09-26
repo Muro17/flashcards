@@ -1,0 +1,19 @@
+:root{
+    --fundo: #faeaal
+    --cor-texto: #black
+    --cor-frente-cartao: #
+    --cot-verso-cartao:
+    --preto:
+    --branco:
+}
+body{background-color: var(--fundo) ;
+}
+footer{
+    background-color: black;
+    color:var(--branco);
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    
+}
