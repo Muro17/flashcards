@@ -22,7 +22,7 @@ criaCartao(
 criaCartao(
     'Física',
     'Qual primeira lei de Ohmn',
-    'U = R x i'
+    'U = R . i'
 )
 
 criaCartao(
