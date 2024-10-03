@@ -34,7 +34,7 @@ footer{
 }
 
 .cartao-conteudo{
-    background-color: var(--fundo);
+    background-color: var(--card-front-color);
     text-align: center;
     height: 100%;
     transform-style:preserve-3d;
@@ -42,8 +42,8 @@ footer{
 }
 
 .cartao-conteudo h3{
-    color:var(--cor-texto);
-    border:1px solid var(--cor-texto);
+    color:var(--text-color);
+    border:1px solid var(--text-color);
     text-align: left;
     padding: 0.5rem;
     position:absolute;
@@ -70,6 +70,6 @@ footer{
 }
 
 .cartao:hover .conteudo-cartao{
-     transform: rotateY('180deg');
+     transform: rotateY(180deg);
 
 }
