@@ -68,3 +68,8 @@ footer{
     color:var(--cor-verso-cartao);
     font-weight: 700;
 }
+
+.cartao:hover .conteudo-cartao{
+     transform: rotateY('180deg');
+
+}
